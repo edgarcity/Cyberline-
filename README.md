@@ -25,7 +25,6 @@ Robot mobile autonome conçu et fabriqué entièrement de A à Z dans le cadre d
 - `code/` → firmware C++ pour Arduino Uno
 - `3D/` → fichiers des 12 pièces modélisées sur Fusion 360
 - `app/` → application Android (MIT App Inventor)
-- `images/` → photos et rendus 3D du robot
 
 ## Bilan
 
